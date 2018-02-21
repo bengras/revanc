@@ -1,0 +1,1 @@
+time ./obj/revanc --runs=10 --pl-entries=-,0,0,0
